@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Projetos C#\\Couso\\",
+  "WorkspaceRootPath": "C:\\Users\\lucas.hillys\\Desktop\\projetos\\Couso\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C0146E3-B9E1-43AE-8FB1-720E6280E367}|Couso\\Couso.csproj|c:\\users\\lucas\\onedrive\\\u00E1rea de trabalho\\projetos c#\\couso\\couso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C0146E3-B9E1-43AE-8FB1-720E6280E367}|Couso\\Couso.csproj|solutionrelative:couso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C0146E3-B9E1-43AE-8FB1-720E6280E367}|Couso\\Couso.csproj|c:\\users\\lucas\\onedrive\\\u00E1rea de trabalho\\projetos c#\\couso\\couso\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C0146E3-B9E1-43AE-8FB1-720E6280E367}|Couso\\Couso.csproj|solutionrelative:couso\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C0146E3-B9E1-43AE-8FB1-720E6280E367}|Couso\\Couso.csproj|c:\\users\\lucas\\onedrive\\\u00E1rea de trabalho\\projetos c#\\couso\\couso\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C0146E3-B9E1-43AE-8FB1-720E6280E367}|Couso\\Couso.csproj|solutionrelative:couso\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C0146E3-B9E1-43AE-8FB1-720E6280E367}|Couso\\Couso.csproj|c:\\users\\lucas\\onedrive\\\u00E1rea de trabalho\\projetos c#\\couso\\couso\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C0146E3-B9E1-43AE-8FB1-720E6280E367}|Couso\\Couso.csproj|c:\\users\\lucas.hillys\\desktop\\projetos\\couso\\couso\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C0146E3-B9E1-43AE-8FB1-720E6280E367}|Couso\\Couso.csproj|solutionrelative:couso\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C0146E3-B9E1-43AE-8FB1-720E6280E367}|Couso\\Couso.csproj|c:\\users\\lucas\\onedrive\\\u00E1rea de trabalho\\projetos c#\\couso\\couso\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C0146E3-B9E1-43AE-8FB1-720E6280E367}|Couso\\Couso.csproj|c:\\users\\lucas.hillys\\desktop\\projetos\\couso\\couso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0146E3-B9E1-43AE-8FB1-720E6280E367}|Couso\\Couso.csproj|solutionrelative:couso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0146E3-B9E1-43AE-8FB1-720E6280E367}|Couso\\Couso.csproj|c:\\users\\lucas.hillys\\desktop\\projetos\\couso\\couso\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C0146E3-B9E1-43AE-8FB1-720E6280E367}|Couso\\Couso.csproj|solutionrelative:couso\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C0146E3-B9E1-43AE-8FB1-720E6280E367}|Couso\\Couso.csproj|c:\\users\\lucas\\onedrive\\\u00E1rea de trabalho\\projetos c#\\couso\\couso\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C0146E3-B9E1-43AE-8FB1-720E6280E367}|Couso\\Couso.csproj|c:\\users\\lucas.hillys\\desktop\\projetos\\couso\\couso\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C0146E3-B9E1-43AE-8FB1-720E6280E367}|Couso\\Couso.csproj|solutionrelative:couso\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0146E3-B9E1-43AE-8FB1-720E6280E367}|Couso\\Couso.csproj|c:\\users\\lucas.hillys\\desktop\\projetos\\couso\\couso\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0146E3-B9E1-43AE-8FB1-720E6280E367}|Couso\\Couso.csproj|solutionrelative:couso\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C0146E3-B9E1-43AE-8FB1-720E6280E367}|Couso\\Couso.csproj|c:\\users\\lucas.hillys\\desktop\\projetos\\couso\\couso\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C0146E3-B9E1-43AE-8FB1-720E6280E367}|Couso\\Couso.csproj|solutionrelative:couso\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Projetos C#\\Couso\\Couso\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.hillys\\Desktop\\projetos\\Couso\\Couso\\Program.cs",
               "RelativeDocumentMoniker": "Couso\\Program.cs",
-              "ToolTip": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Projetos C#\\Couso\\Couso\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas.hillys\\Desktop\\projetos\\Couso\\Couso\\Program.cs",
               "RelativeToolTip": "Couso\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCQAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T01:57:04.884Z",
               "IsPinned": true,
@@ -52,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Projetos C#\\Couso\\Couso\\Entities\\Order.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.hillys\\Desktop\\projetos\\Couso\\Couso\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "Couso\\Entities\\Order.cs",
-              "ToolTip": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Projetos C#\\Couso\\Couso\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\lucas.hillys\\Desktop\\projetos\\Couso\\Couso\\Entities\\Order.cs",
               "RelativeToolTip": "Couso\\Entities\\Order.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAkwB8AAAAdAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA7wDoAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T02:09:18.851Z",
               "IsPinned": true,
@@ -66,13 +66,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Projetos C#\\Couso\\Couso\\Entities\\OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.hillys\\Desktop\\projetos\\Couso\\Couso\\Entities\\OrderItem.cs",
               "RelativeDocumentMoniker": "Couso\\Entities\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Projetos C#\\Couso\\Couso\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\lucas.hillys\\Desktop\\projetos\\Couso\\Couso\\Entities\\OrderItem.cs",
               "RelativeToolTip": "Couso\\Entities\\OrderItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T02:03:48.35Z",
               "IsPinned": true,
@@ -80,11 +80,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Projetos C#\\Couso\\Couso\\Entities\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.hillys\\Desktop\\projetos\\Couso\\Couso\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Couso\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Projetos C#\\Couso\\Couso\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\lucas.hillys\\Desktop\\projetos\\Couso\\Couso\\Entities\\Product.cs",
               "RelativeToolTip": "Couso\\Entities\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -94,29 +94,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Projetos C#\\Couso\\Couso\\Entities\\Client.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.hillys\\Desktop\\projetos\\Couso\\Couso\\Entities\\Client.cs",
               "RelativeDocumentMoniker": "Couso\\Entities\\Client.cs",
-              "ToolTip": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Projetos C#\\Couso\\Couso\\Entities\\Client.cs",
+              "ToolTip": "C:\\Users\\lucas.hillys\\Desktop\\projetos\\Couso\\Couso\\Entities\\Client.cs",
               "RelativeToolTip": "Couso\\Entities\\Client.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T01:59:40.148Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "OrderStatus.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Projetos C#\\Couso\\Couso\\Entities\\Enums\\OrderStatus.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.hillys\\Desktop\\projetos\\Couso\\Couso\\Entities\\Enums\\OrderStatus.cs",
               "RelativeDocumentMoniker": "Couso\\Entities\\Enums\\OrderStatus.cs",
-              "ToolTip": "C:\\Users\\lucas\\OneDrive\\\u00C1rea de Trabalho\\Projetos C#\\Couso\\Couso\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\Users\\lucas.hillys\\Desktop\\projetos\\Couso\\Couso\\Entities\\Enums\\OrderStatus.cs",
               "RelativeToolTip": "Couso\\Entities\\Enums\\OrderStatus.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T01:59:20.947Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             }
           ]
         }

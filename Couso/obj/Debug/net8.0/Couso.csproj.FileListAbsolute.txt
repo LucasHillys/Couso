@@ -12,3 +12,18 @@ C:\Users\lucas\OneDrive\Área de Trabalho\Projetos C#\Couso\Couso\obj\Debug\net8
 C:\Users\lucas\OneDrive\Área de Trabalho\Projetos C#\Couso\Couso\obj\Debug\net8.0\Couso.pdb
 C:\Users\lucas\OneDrive\Área de Trabalho\Projetos C#\Couso\Couso\obj\Debug\net8.0\Couso.genruntimeconfig.cache
 C:\Users\lucas\OneDrive\Área de Trabalho\Projetos C#\Couso\Couso\obj\Debug\net8.0\ref\Couso.dll
+C:\Users\lucas.hillys\Desktop\projetos\Couso\Couso\bin\Debug\net8.0\Couso.exe
+C:\Users\lucas.hillys\Desktop\projetos\Couso\Couso\bin\Debug\net8.0\Couso.deps.json
+C:\Users\lucas.hillys\Desktop\projetos\Couso\Couso\bin\Debug\net8.0\Couso.runtimeconfig.json
+C:\Users\lucas.hillys\Desktop\projetos\Couso\Couso\bin\Debug\net8.0\Couso.dll
+C:\Users\lucas.hillys\Desktop\projetos\Couso\Couso\bin\Debug\net8.0\Couso.pdb
+C:\Users\lucas.hillys\Desktop\projetos\Couso\Couso\obj\Debug\net8.0\Couso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.hillys\Desktop\projetos\Couso\Couso\obj\Debug\net8.0\Couso.AssemblyInfoInputs.cache
+C:\Users\lucas.hillys\Desktop\projetos\Couso\Couso\obj\Debug\net8.0\Couso.AssemblyInfo.cs
+C:\Users\lucas.hillys\Desktop\projetos\Couso\Couso\obj\Debug\net8.0\Couso.csproj.CoreCompileInputs.cache
+C:\Users\lucas.hillys\Desktop\projetos\Couso\Couso\obj\Debug\net8.0\Couso.sourcelink.json
+C:\Users\lucas.hillys\Desktop\projetos\Couso\Couso\obj\Debug\net8.0\Couso.dll
+C:\Users\lucas.hillys\Desktop\projetos\Couso\Couso\obj\Debug\net8.0\refint\Couso.dll
+C:\Users\lucas.hillys\Desktop\projetos\Couso\Couso\obj\Debug\net8.0\Couso.pdb
+C:\Users\lucas.hillys\Desktop\projetos\Couso\Couso\obj\Debug\net8.0\Couso.genruntimeconfig.cache
+C:\Users\lucas.hillys\Desktop\projetos\Couso\Couso\obj\Debug\net8.0\ref\Couso.dll

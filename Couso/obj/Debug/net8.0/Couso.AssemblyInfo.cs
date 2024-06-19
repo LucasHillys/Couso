@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Couso")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3af76bcf9d1c75d3dd6346443384293cb03767d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Couso")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Couso")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

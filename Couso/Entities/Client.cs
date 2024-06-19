@@ -16,5 +16,10 @@
             Email = email;
             BirthDay = birthDay;
         }
+
+        public override string ToString()
+        {
+            return $"{Name} {BirthDay.ToString("dd/MM/yyyy")} - {Email}";
+        }
     }
 }
